@@ -1,0 +1,572 @@
+H:\Klausur Nr.2\Klausur Nr.2\bin\Klausur Nr.2.dll.config
+H:\Klausur Nr.2\Klausur Nr.2\bin\Klausur Nr.2.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\Klausur Nr.2.pdb
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\csc.exe
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\csc.exe.config
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\csc.rsp
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\csi.exe
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\csi.exe.config
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\csi.rsp
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.AppContext.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Collections.Immutable.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Console.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Globalization.Calendars.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.IO.Compression.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.IO.FileSystem.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Net.Http.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Net.Sockets.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Reflection.Metadata.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.ValueTuple.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Xml.XPath.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\vbc.exe
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\vbc.exe.config
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\vbc.rsp
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\VBCSCompiler.exe
+H:\Klausur Nr.2\Klausur Nr.2\bin\roslyn\VBCSCompiler.exe.config
+H:\Klausur Nr.2\Klausur Nr.2\bin\Antlr3.Runtime.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\AspNet.ScriptManager.bootstrap.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\AspNet.ScriptManager.jQuery.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\BouncyCastle.Crypto.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\Google.Protobuf.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\K4os.Compression.LZ4.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\K4os.Compression.LZ4.Streams.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\K4os.Hash.xxHash.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.ScriptManager.WebForms.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.Web.Infrastructure.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\MySql.Data.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\Newtonsoft.Json.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\Renci.SshNet.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Buffers.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Memory.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Net.Http.Formatting.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Numerics.Vectors.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.CompilerServices.Unsafe.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Helpers.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Http.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Http.WebHost.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Mvc.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Optimization.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Razor.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Webpages.Deployment.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Webpages.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Webpages.Razor.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\Ubiety.Dns.Core.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\WebGrease.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\Zstandard.Net.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\Google.Protobuf.pdb
+H:\Klausur Nr.2\Klausur Nr.2\bin\Google.Protobuf.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\K4os.Compression.LZ4.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\K4os.Compression.LZ4.Streams.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\K4os.Hash.xxHash.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\MySql.Data.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\Renci.SshNet.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Buffers.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Memory.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Numerics.Vectors.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.CompilerServices.Unsafe.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Optimization.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\Newtonsoft.Json.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\Antlr3.Runtime.pdb
+H:\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Razor.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Webpages.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Webpages.Deployment.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Webpages.Razor.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Helpers.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Mvc.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Net.Http.Formatting.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Http.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Http.WebHost.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Optimization.resources.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\de\Microsoft.AspNet.FriendlyUrls.resources.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Razor.resources.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Webpages.resources.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Webpages.Deployment.resources.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Webpages.Razor.resources.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Helpers.resources.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Mvc.resources.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\de\System.Net.Http.Formatting.resources.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Http.resources.dll
+H:\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Http.WebHost.resources.dll
+H:\Klausur Nr.2\Klausur Nr.2\obj\Debug\Klausur Nr.2.csprojAssemblyReference.cache
+H:\Klausur Nr.2\Klausur Nr.2\obj\Debug\Klausur Nr.2.csproj.CoreCompileInputs.cache
+H:\Klausur Nr.2\Klausur Nr.2\obj\Debug\Klausur Nr.2.csproj.CopyComplete
+H:\Klausur Nr.2\Klausur Nr.2\obj\Debug\Klausur Nr.2.dll
+H:\Klausur Nr.2\Klausur Nr.2\obj\Debug\Klausur Nr.2.pdb
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Klausur Nr.2.dll.config
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Klausur Nr.2.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Klausur Nr.2.pdb
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\csc.exe
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\csc.exe.config
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\csc.rsp
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\csi.exe
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\csi.exe.config
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\csi.rsp
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.CSharp.Core.targets
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.Managed.Core.targets
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.AppContext.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Collections.Immutable.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Console.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Globalization.Calendars.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.IO.Compression.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.IO.FileSystem.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Net.Http.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Net.Sockets.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Reflection.Metadata.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.ValueTuple.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Xml.ReaderWriter.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Xml.XmlDocument.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Xml.XPath.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\vbc.exe
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\vbc.exe.config
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\vbc.rsp
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\VBCSCompiler.exe
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\roslyn\VBCSCompiler.exe.config
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.Win32.Primitives.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\netstandard.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.AppContext.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Collections.Concurrent.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Collections.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Collections.NonGeneric.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Collections.Specialized.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.ComponentModel.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.ComponentModel.EventBasedAsync.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.ComponentModel.Primitives.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.ComponentModel.TypeConverter.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Console.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Data.Common.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Diagnostics.Contracts.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Diagnostics.Debug.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Diagnostics.FileVersionInfo.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Diagnostics.Process.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Diagnostics.StackTrace.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Diagnostics.TextWriterTraceListener.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Diagnostics.Tools.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Diagnostics.TraceSource.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Diagnostics.Tracing.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Drawing.Primitives.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Dynamic.Runtime.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Globalization.Calendars.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Globalization.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Globalization.Extensions.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.IO.Compression.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.IO.Compression.ZipFile.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.IO.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.IO.FileSystem.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.IO.FileSystem.DriveInfo.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.IO.FileSystem.Primitives.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.IO.FileSystem.Watcher.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.IO.IsolatedStorage.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.IO.MemoryMappedFiles.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.IO.Pipes.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.IO.UnmanagedMemoryStream.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Linq.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Linq.Expressions.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Linq.Parallel.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Linq.Queryable.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Net.Http.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Net.NameResolution.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Net.NetworkInformation.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Net.Ping.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Net.Primitives.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Net.Requests.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Net.Security.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Net.Sockets.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Net.WebHeaderCollection.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Net.WebSockets.Client.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Net.WebSockets.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.ObjectModel.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Reflection.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Reflection.Extensions.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Reflection.Primitives.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Resources.Reader.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Resources.ResourceManager.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Resources.Writer.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.CompilerServices.VisualC.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.Extensions.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.Handles.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.InteropServices.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.Numerics.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.Serialization.Formatters.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.Serialization.Json.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.Serialization.Primitives.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.Serialization.Xml.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Security.Claims.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Security.Cryptography.Algorithms.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Security.Cryptography.Csp.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Security.Cryptography.Encoding.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Security.Cryptography.Primitives.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Security.Cryptography.X509Certificates.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Security.Principal.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Security.SecureString.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Text.Encoding.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Text.Encoding.Extensions.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Text.RegularExpressions.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Threading.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Threading.Overlapped.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Threading.Tasks.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Threading.Tasks.Parallel.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Threading.Thread.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Threading.ThreadPool.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Threading.Timer.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.ValueTuple.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Xml.ReaderWriter.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Xml.XDocument.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Xml.XmlDocument.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Xml.XmlSerializer.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Xml.XPath.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Xml.XPath.XDocument.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Antlr3.Runtime.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\AspNet.ScriptManager.bootstrap.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\AspNet.ScriptManager.jQuery.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\BouncyCastle.Crypto.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Google.Protobuf.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\K4os.Compression.LZ4.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\K4os.Compression.LZ4.Streams.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\K4os.Hash.xxHash.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.ScriptManager.MSAjax.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.ScriptManager.WebForms.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.Web.Infrastructure.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\MySql.Data.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Newtonsoft.Json.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Renci.SshNet.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Buffers.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Memory.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Net.Http.Formatting.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Numerics.Vectors.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.CompilerServices.Unsafe.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Helpers.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Http.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Http.WebHost.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Mvc.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Optimization.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Razor.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Webpages.Deployment.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Webpages.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Webpages.Razor.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Ubiety.Dns.Core.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\WebGrease.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Zstandard.Net.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Google.Protobuf.pdb
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Google.Protobuf.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\K4os.Compression.LZ4.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\K4os.Compression.LZ4.Streams.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\K4os.Hash.xxHash.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\MySql.Data.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Renci.SshNet.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Buffers.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Memory.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Numerics.Vectors.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.CompilerServices.Unsafe.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Optimization.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Newtonsoft.Json.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Antlr3.Runtime.pdb
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Razor.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Webpages.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Webpages.Deployment.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Webpages.Razor.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Helpers.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Mvc.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Net.Http.Formatting.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Http.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Http.WebHost.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Optimization.resources.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\de\Microsoft.AspNet.FriendlyUrls.resources.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Razor.resources.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Webpages.resources.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Webpages.Deployment.resources.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Webpages.Razor.resources.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Helpers.resources.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Mvc.resources.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\de\System.Net.Http.Formatting.resources.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Http.resources.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Http.WebHost.resources.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\obj\Debug\Klausur Nr.2.csproj.CoreCompileInputs.cache
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\obj\Debug\Klausur Nr.2.csproj.CopyComplete
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\obj\Debug\Klausur Nr.2.dll
+\\bk174518\exam-haidar.m\Desktop\Klausur Nr.2\Klausur Nr.2\obj\Debug\Klausur Nr.2.pdb
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Klausur Nr.2.dll.config
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Klausur Nr.2.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Klausur Nr.2.pdb
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\csc.exe
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\csc.exe.config
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\csc.rsp
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\csi.exe
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\csi.exe.config
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\csi.rsp
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.Managed.Core.targets
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.AppContext.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Collections.Immutable.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Console.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Globalization.Calendars.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.IO.Compression.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.IO.FileSystem.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Net.Http.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Net.Sockets.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Reflection.Metadata.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.ValueTuple.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Xml.XmlDocument.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Xml.XPath.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\vbc.exe
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\vbc.exe.config
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\vbc.rsp
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\VBCSCompiler.exe
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\roslyn\VBCSCompiler.exe.config
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.Win32.Primitives.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\netstandard.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.AppContext.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Collections.Concurrent.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Collections.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Collections.NonGeneric.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Collections.Specialized.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.ComponentModel.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.ComponentModel.EventBasedAsync.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.ComponentModel.Primitives.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.ComponentModel.TypeConverter.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Console.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Data.Common.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Diagnostics.Contracts.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Diagnostics.Debug.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Diagnostics.FileVersionInfo.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Diagnostics.Process.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Diagnostics.StackTrace.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Diagnostics.TextWriterTraceListener.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Diagnostics.Tools.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Diagnostics.TraceSource.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Diagnostics.Tracing.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Drawing.Primitives.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Dynamic.Runtime.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Globalization.Calendars.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Globalization.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Globalization.Extensions.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.IO.Compression.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.IO.Compression.ZipFile.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.IO.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.IO.FileSystem.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.IO.FileSystem.DriveInfo.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.IO.FileSystem.Primitives.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.IO.FileSystem.Watcher.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.IO.IsolatedStorage.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.IO.MemoryMappedFiles.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.IO.Pipes.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.IO.UnmanagedMemoryStream.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Linq.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Linq.Expressions.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Linq.Parallel.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Linq.Queryable.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Net.Http.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Net.NameResolution.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Net.NetworkInformation.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Net.Ping.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Net.Primitives.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Net.Requests.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Net.Security.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Net.Sockets.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Net.WebHeaderCollection.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Net.WebSockets.Client.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Net.WebSockets.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.ObjectModel.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Reflection.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Reflection.Extensions.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Reflection.Primitives.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Resources.Reader.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Resources.ResourceManager.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Resources.Writer.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.CompilerServices.VisualC.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.Extensions.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.Handles.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.InteropServices.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.Numerics.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.Serialization.Formatters.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.Serialization.Json.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.Serialization.Primitives.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.Serialization.Xml.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Security.Claims.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Security.Cryptography.Algorithms.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Security.Cryptography.Csp.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Security.Cryptography.Encoding.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Security.Cryptography.Primitives.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Security.Cryptography.X509Certificates.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Security.Principal.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Security.SecureString.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Text.Encoding.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Text.Encoding.Extensions.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Text.RegularExpressions.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Threading.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Threading.Overlapped.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Threading.Tasks.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Threading.Tasks.Parallel.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Threading.Thread.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Threading.ThreadPool.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Threading.Timer.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.ValueTuple.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Xml.ReaderWriter.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Xml.XDocument.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Xml.XmlDocument.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Xml.XmlSerializer.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Xml.XPath.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Xml.XPath.XDocument.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Antlr3.Runtime.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\AspNet.ScriptManager.bootstrap.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\AspNet.ScriptManager.jQuery.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\BouncyCastle.Crypto.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Google.Protobuf.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\K4os.Compression.LZ4.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\K4os.Compression.LZ4.Streams.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\K4os.Hash.xxHash.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.ScriptManager.WebForms.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.Web.Infrastructure.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\MySql.Data.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Newtonsoft.Json.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Renci.SshNet.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Buffers.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Memory.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Net.Http.Formatting.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Numerics.Vectors.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.CompilerServices.Unsafe.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Helpers.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Http.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Http.WebHost.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Mvc.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Optimization.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Razor.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Webpages.Deployment.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Webpages.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Webpages.Razor.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Ubiety.Dns.Core.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\WebGrease.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Zstandard.Net.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Google.Protobuf.pdb
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Google.Protobuf.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\K4os.Compression.LZ4.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\K4os.Compression.LZ4.Streams.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\K4os.Hash.xxHash.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\MySql.Data.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Renci.SshNet.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Buffers.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Memory.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Numerics.Vectors.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Runtime.CompilerServices.Unsafe.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Optimization.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Newtonsoft.Json.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Antlr3.Runtime.pdb
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Razor.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Webpages.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Webpages.Deployment.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Webpages.Razor.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Helpers.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Mvc.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Net.Http.Formatting.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Http.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\System.Web.Http.WebHost.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Optimization.resources.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\de\Microsoft.AspNet.FriendlyUrls.resources.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Razor.resources.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Webpages.resources.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Webpages.Deployment.resources.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Webpages.Razor.resources.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Helpers.resources.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Mvc.resources.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\de\System.Net.Http.Formatting.resources.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Http.resources.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\bin\de\System.Web.Http.WebHost.resources.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\obj\Debug\Klausur Nr.2.csprojAssemblyReference.cache
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\obj\Debug\Klausur Nr.2.csproj.CoreCompileInputs.cache
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\obj\Debug\Klausur Nr.2.csproj.CopyComplete
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\obj\Debug\Klausur Nr.2.dll
+H:\3 Jahr\PRO\Klausur Nr.2\Klausur Nr.2\obj\Debug\Klausur Nr.2.pdb
